@@ -41,7 +41,7 @@ El script principal se encuentra en el archivo `app.py` dentro del directorio `S
 
 ## Servidor
 
-No se requiere un servidor dedicado para este proyecto, ya que se ejecutará localmente en la máquina del usuario.
+No se requiere un servidor dedicado para este proyecto, ya que se ejecutará localmente en la máquina del usuario. GitHub se utilizará para almacenar y compartir los cambios subidos al repositorio en intervalos regulares de tiempo.
 
 ## MIT License
 
@@ -50,4 +50,9 @@ Este proyecto se distribuye bajo la Licencia MIT. Consulte el archivo LICENSE pa
 ## Clonar y Compartir
 
 Puede clonar este repositorio utilizando el siguiente comando:
+
+git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+
+
+¡No olvides darle una estrellita al repositorio si te ha resultado útil!
 
