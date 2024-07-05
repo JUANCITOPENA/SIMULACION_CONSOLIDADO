@@ -749,3 +749,753 @@ Fecha,Nombre del Producto,Cantidad Vendida,Precio Unitario,Total de Venta,Catego
 02/22/2020,"Camiseta (M, Azul, Nike)",2,15,$60.00,Ropa,Norte
 01/12/2016,"Pantalón (L, Gris, Levi's)",3,25,$150.00,Ropa,Este
 01/14/2024,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
+04/23/2008,"Gorro (M, Gris, Patagonia)",2,20,$100.00,Accesorios,Norte
+11/20/2011,"Sudadera (L, Roja, Under Armour)",5,40,$120.00,Ropa,Sur
+07/20/2022,"Reloj (Único, Plata, Casio)",6,60,$120.00,Accesorios,Este
+05/09/2011,"Mochila (M, Negra, North Face)",3,80,$320.00,Accesorios,Norte
+12/26/2004,"Gorra (Único, Azul, Nike)",7,15,$105.00,Accesorios,Sur
+07/21/2007,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+07/05/2015,"Calcetines (L, Blanco, Puma)",6,5,$50.00,Accesorios,Este
+01/10/2021,"Bufanda (Única, Roja, Gucci)",10,150,$150.00,Accesorios,Sur
+04/20/2007,"Botas (43, Marrón, Dr. Martens)",8,120,$360.00,Calzado,Norte
+03/23/2011,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+03/14/2011,"Vestido (L, Verde, Zara)",5,45,$90.00,Ropa,Sur
+10/12/2008,"Sandalias (38, Negro, Birkenstock)",4,35,$210.00,Calzado,Norte
+03/11/2007,"Gafas de Sol (Único, Negro, Ray-Ban)",1,120,$360.00,Accesorios,Este
+05/15/2012,"Guantes (M, Negro, Reebok)",9,25,$200.00,Accesorios,Sur
+12/08/2010,"Corbata (Única, Roja, Hugo Boss)",1,30,$150.00,Accesorios,Norte
+10/13/2005,"Falda (S, Negra, H&M)",8,35,$140.00,Ropa,Este
+08/18/2005,"Chaqueta (L, Verde, Patagonia)",3,150,$300.00,Ropa,Norte
+11/10/2013,"Maleta (M, Azul, Samsonite)",6,100,$300.00,Accesorios,Sur
+06/04/2010,"Zapatos de Deporte (40, Blanco, New Balance)",1,70,$350.00,Calzado,Este
+06/11/2016,"Paraguas (Único, Negro, Totes)",5,25,$150.00,Accesorios,Norte
+03/20/2024,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+02/05/2003,"Camiseta (S, Negra, Adidas)",1,15,$15.00,Ropa,Este
+12/24/2020,"Camiseta (M, Azul, Nike)",3,15,$60.00,Ropa,Norte
+06/27/2023,"Pantalón (L, Gris, Levi's)",8,25,$150.00,Ropa,Este
+10/24/2017,"Zapatos (42, Negro, Nike)",8,50,$450.00,Calzado,Norte
+10/03/2011,"Gorro (M, Gris, Patagonia)",1,20,$100.00,Accesorios,Norte
+06/26/2020,"Sudadera (L, Roja, Under Armour)",3,40,$120.00,Ropa,Sur
+06/14/2004,"Reloj (Único, Plata, Casio)",3,60,$120.00,Accesorios,Este
+02/08/2015,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+03/20/2004,"Gorra (Único, Azul, Nike)",5,15,$105.00,Accesorios,Sur
+12/02/2012,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+05/16/2003,"Calcetines (L, Blanco, Puma)",8,5,$50.00,Accesorios,Este
+09/30/2005,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+10/23/2016,"Botas (43, Marrón, Dr. Martens)",3,120,$360.00,Calzado,Norte
+02/25/2002,"Traje (M, Azul, Armani)",2,300,$300.00,Ropa,Este
+09/05/2001,"Vestido (L, Verde, Zara)",8,45,$90.00,Ropa,Sur
+06/10/2014,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+09/25/2007,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+07/10/2012,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+04/08/2023,"Corbata (Única, Roja, Hugo Boss)",7,30,$150.00,Accesorios,Norte
+06/06/2011,"Falda (S, Negra, H&M)",4,35,$140.00,Ropa,Este
+07/09/2013,"Chaqueta (L, Verde, Patagonia)",7,150,$300.00,Ropa,Norte
+07/20/2012,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+01/25/2012,"Zapatos de Deporte (40, Blanco, New Balance)",10,70,$350.00,Calzado,Este
+01/21/2015,"Paraguas (Único, Negro, Totes)",4,25,$150.00,Accesorios,Norte
+07/27/2019,"Zapatos (41, Negro, Nike)",2,50,$50.00,Calzado,Norte
+08/12/2022,"Camiseta (S, Negra, Adidas)",2,15,$15.00,Ropa,Este
+09/28/2019,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+07/25/2007,"Pantalón (L, Gris, Levi's)",6,25,$150.00,Ropa,Este
+09/04/2004,"Zapatos (42, Negro, Nike)",1,50,$450.00,Calzado,Norte
+02/08/2019,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+12/28/2007,"Sudadera (L, Roja, Under Armour)",8,40,$120.00,Ropa,Sur
+04/13/2001,"Reloj (Único, Plata, Casio)",1,60,$120.00,Accesorios,Este
+02/04/2006,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+03/17/2020,"Gorra (Único, Azul, Nike)",8,15,$105.00,Accesorios,Sur
+03/31/2021,"Chaqueta (M, Negra, Columbia)",3,100,$200.00,Ropa,Norte
+10/22/2013,"Calcetines (L, Blanco, Puma)",6,5,$50.00,Accesorios,Este
+07/10/2004,"Bufanda (Única, Roja, Gucci)",3,150,$150.00,Accesorios,Sur
+04/03/2016,"Botas (43, Marrón, Dr. Martens)",6,120,$360.00,Calzado,Norte
+12/26/2004,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+03/09/2018,"Vestido (L, Verde, Zara)",6,45,$90.00,Ropa,Sur
+06/28/2004,"Sandalias (38, Negro, Birkenstock)",6,35,$210.00,Calzado,Norte
+06/16/2016,"Gafas de Sol (Único, Negro, Ray-Ban)",1,120,$360.00,Accesorios,Este
+05/24/2016,"Guantes (M, Negro, Reebok)",4,25,$200.00,Accesorios,Sur
+11/26/2010,"Corbata (Única, Roja, Hugo Boss)",4,30,$150.00,Accesorios,Norte
+06/18/2019,"Falda (S, Negra, H&M)",9,35,$140.00,Ropa,Este
+04/08/2011,"Chaqueta (L, Verde, Patagonia)",6,150,$300.00,Ropa,Norte
+02/21/2023,"Maleta (M, Azul, Samsonite)",4,100,$300.00,Accesorios,Sur
+10/23/2003,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+01/03/2020,"Paraguas (Único, Negro, Totes)",10,25,$150.00,Accesorios,Norte
+08/05/2007,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+02/01/2020,"Camiseta (S, Negra, Adidas)",3,15,$15.00,Ropa,Este
+09/09/2016,"Camiseta (M, Azul, Nike)",10,15,$60.00,Ropa,Norte
+09/08/2009,"Pantalón (L, Gris, Levi's)",7,25,$150.00,Ropa,Este
+09/18/2015,"Zapatos (42, Negro, Nike)",3,50,$450.00,Calzado,Norte
+02/02/2002,"Gorro (M, Gris, Patagonia)",1,20,$100.00,Accesorios,Norte
+03/28/2013,"Sudadera (L, Roja, Under Armour)",10,40,$120.00,Ropa,Sur
+06/16/2017,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+03/21/2005,"Mochila (M, Negra, North Face)",1,80,$320.00,Accesorios,Norte
+06/23/2020,"Gorra (Único, Azul, Nike)",2,15,$105.00,Accesorios,Sur
+07/25/2003,"Chaqueta (M, Negra, Columbia)",4,100,$200.00,Ropa,Norte
+01/26/2009,"Calcetines (L, Blanco, Puma)",9,5,$50.00,Accesorios,Este
+07/31/2001,"Bufanda (Única, Roja, Gucci)",6,150,$150.00,Accesorios,Sur
+09/26/2016,"Botas (43, Marrón, Dr. Martens)",5,120,$360.00,Calzado,Norte
+11/26/2023,"Traje (M, Azul, Armani)",10,300,$300.00,Ropa,Este
+02/15/2003,"Vestido (L, Verde, Zara)",5,45,$90.00,Ropa,Sur
+06/18/2001,"Sandalias (38, Negro, Birkenstock)",3,35,$210.00,Calzado,Norte
+10/04/2007,"Gafas de Sol (Único, Negro, Ray-Ban)",3,120,$360.00,Accesorios,Este
+09/08/2019,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+04/07/2007,"Corbata (Única, Roja, Hugo Boss)",4,30,$150.00,Accesorios,Norte
+11/08/2006,"Falda (S, Negra, H&M)",9,35,$140.00,Ropa,Este
+02/26/2012,"Chaqueta (L, Verde, Patagonia)",4,150,$300.00,Ropa,Norte
+11/05/2016,"Maleta (M, Azul, Samsonite)",5,100,$300.00,Accesorios,Sur
+08/28/2003,"Zapatos de Deporte (40, Blanco, New Balance)",4,70,$350.00,Calzado,Este
+03/28/2012,"Paraguas (Único, Negro, Totes)",7,25,$150.00,Accesorios,Norte
+10/27/2023,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+03/12/2017,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+01/05/2014,"Camiseta (M, Azul, Nike)",9,15,$60.00,Ropa,Norte
+10/09/2002,"Pantalón (L, Gris, Levi's)",5,25,$150.00,Ropa,Este
+02/16/2004,"Zapatos (42, Negro, Nike)",4,50,$450.00,Calzado,Norte
+09/06/2021,"Gorro (M, Gris, Patagonia)",3,20,$100.00,Accesorios,Norte
+01/13/2016,"Sudadera (L, Roja, Under Armour)",2,40,$120.00,Ropa,Sur
+02/10/2002,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+12/02/2008,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+01/31/2005,"Gorra (Único, Azul, Nike)",6,15,$105.00,Accesorios,Sur
+10/27/2001,"Chaqueta (M, Negra, Columbia)",6,100,$200.00,Ropa,Norte
+03/20/2002,"Calcetines (L, Blanco, Puma)",8,5,$50.00,Accesorios,Este
+11/16/2001,"Bufanda (Única, Roja, Gucci)",5,150,$150.00,Accesorios,Sur
+03/10/2021,"Botas (43, Marrón, Dr. Martens)",5,120,$360.00,Calzado,Norte
+07/13/2005,"Traje (M, Azul, Armani)",1,300,$300.00,Ropa,Este
+05/03/2017,"Vestido (L, Verde, Zara)",5,45,$90.00,Ropa,Sur
+12/31/2016,"Sandalias (38, Negro, Birkenstock)",5,35,$210.00,Calzado,Norte
+04/22/2012,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+06/03/2018,"Guantes (M, Negro, Reebok)",8,25,$200.00,Accesorios,Sur
+06/22/2017,"Corbata (Única, Roja, Hugo Boss)",6,30,$150.00,Accesorios,Norte
+05/20/2004,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+06/20/2002,"Chaqueta (L, Verde, Patagonia)",1,150,$300.00,Ropa,Norte
+01/24/2013,"Maleta (M, Azul, Samsonite)",6,100,$300.00,Accesorios,Sur
+05/21/2014,"Zapatos de Deporte (40, Blanco, New Balance)",1,70,$350.00,Calzado,Este
+12/17/2011,"Paraguas (Único, Negro, Totes)",7,25,$150.00,Accesorios,Norte
+06/19/2018,"Zapatos (41, Negro, Nike)",7,50,$50.00,Calzado,Norte
+04/20/2017,"Camiseta (S, Negra, Adidas)",9,15,$15.00,Ropa,Este
+03/10/2014,"Camiseta (M, Azul, Nike)",10,15,$60.00,Ropa,Norte
+08/18/2023,"Pantalón (L, Gris, Levi's)",8,25,$150.00,Ropa,Este
+06/05/2015,"Zapatos (42, Negro, Nike)",6,50,$450.00,Calzado,Norte
+06/06/2006,"Gorro (M, Gris, Patagonia)",7,20,$100.00,Accesorios,Norte
+11/02/2012,"Sudadera (L, Roja, Under Armour)",8,40,$120.00,Ropa,Sur
+11/23/2007,"Reloj (Único, Plata, Casio)",2,60,$120.00,Accesorios,Este
+12/15/2006,"Mochila (M, Negra, North Face)",10,80,$320.00,Accesorios,Norte
+05/07/2003,"Gorra (Único, Azul, Nike)",9,15,$105.00,Accesorios,Sur
+11/21/2021,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+08/28/2022,"Calcetines (L, Blanco, Puma)",10,5,$50.00,Accesorios,Este
+06/07/2020,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+02/15/2006,"Botas (43, Marrón, Dr. Martens)",1,120,$360.00,Calzado,Norte
+05/27/2005,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+09/24/2004,"Vestido (L, Verde, Zara)",3,45,$90.00,Ropa,Sur
+03/27/2003,"Sandalias (38, Negro, Birkenstock)",9,35,$210.00,Calzado,Norte
+06/20/2024,"Gafas de Sol (Único, Negro, Ray-Ban)",6,120,$360.00,Accesorios,Este
+01/25/2008,"Guantes (M, Negro, Reebok)",5,25,$200.00,Accesorios,Sur
+11/04/2010,"Corbata (Única, Roja, Hugo Boss)",2,30,$150.00,Accesorios,Norte
+12/04/2007,"Falda (S, Negra, H&M)",4,35,$140.00,Ropa,Este
+09/10/2007,"Chaqueta (L, Verde, Patagonia)",6,150,$300.00,Ropa,Norte
+12/06/2002,"Maleta (M, Azul, Samsonite)",1,100,$300.00,Accesorios,Sur
+10/18/2012,"Zapatos de Deporte (40, Blanco, New Balance)",4,70,$350.00,Calzado,Este
+05/24/2017,"Paraguas (Único, Negro, Totes)",5,25,$150.00,Accesorios,Norte
+07/20/2005,"Zapatos (41, Negro, Nike)",5,50,$50.00,Calzado,Norte
+10/25/2016,"Camiseta (S, Negra, Adidas)",7,15,$15.00,Ropa,Este
+01/23/2019,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+12/21/2011,"Pantalón (L, Gris, Levi's)",9,25,$150.00,Ropa,Este
+03/20/2016,"Zapatos (42, Negro, Nike)",8,50,$450.00,Calzado,Norte
+02/14/2012,"Gorro (M, Gris, Patagonia)",1,20,$100.00,Accesorios,Norte
+04/13/2011,"Sudadera (L, Roja, Under Armour)",4,40,$120.00,Ropa,Sur
+12/31/2017,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+06/10/2012,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+03/18/2001,"Gorra (Único, Azul, Nike)",2,15,$105.00,Accesorios,Sur
+01/08/2009,"Chaqueta (M, Negra, Columbia)",10,100,$200.00,Ropa,Norte
+06/17/2007,"Calcetines (L, Blanco, Puma)",1,5,$50.00,Accesorios,Este
+09/12/2003,"Bufanda (Única, Roja, Gucci)",3,150,$150.00,Accesorios,Sur
+11/27/2014,"Botas (43, Marrón, Dr. Martens)",8,120,$360.00,Calzado,Norte
+05/28/2022,"Traje (M, Azul, Armani)",8,300,$300.00,Ropa,Este
+06/17/2015,"Vestido (L, Verde, Zara)",6,45,$90.00,Ropa,Sur
+07/15/2010,"Sandalias (38, Negro, Birkenstock)",8,35,$210.00,Calzado,Norte
+10/16/2009,"Gafas de Sol (Único, Negro, Ray-Ban)",1,120,$360.00,Accesorios,Este
+01/14/2004,"Guantes (M, Negro, Reebok)",8,25,$200.00,Accesorios,Sur
+12/27/2016,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+01/25/2016,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+11/19/2023,"Chaqueta (L, Verde, Patagonia)",3,150,$300.00,Ropa,Norte
+05/29/2012,"Maleta (M, Azul, Samsonite)",4,100,$300.00,Accesorios,Sur
+01/14/2015,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+09/22/2007,"Paraguas (Único, Negro, Totes)",6,25,$150.00,Accesorios,Norte
+11/24/2021,"Zapatos (41, Negro, Nike)",7,50,$50.00,Calzado,Norte
+10/31/2020,"Camiseta (S, Negra, Adidas)",1,15,$15.00,Ropa,Este
+12/05/2016,"Camiseta (M, Azul, Nike)",10,15,$60.00,Ropa,Norte
+01/04/2002,"Pantalón (L, Gris, Levi's)",8,25,$150.00,Ropa,Este
+12/22/2007,"Zapatos (42, Negro, Nike)",8,50,$450.00,Calzado,Norte
+03/14/2014,"Gorro (M, Gris, Patagonia)",5,20,$100.00,Accesorios,Norte
+05/26/2012,"Sudadera (L, Roja, Under Armour)",7,40,$120.00,Ropa,Sur
+08/03/2013,"Reloj (Único, Plata, Casio)",7,60,$120.00,Accesorios,Este
+07/21/2016,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+07/02/2014,"Gorra (Único, Azul, Nike)",8,15,$105.00,Accesorios,Sur
+03/01/2002,"Chaqueta (M, Negra, Columbia)",10,100,$200.00,Ropa,Norte
+01/24/2003,"Calcetines (L, Blanco, Puma)",5,5,$50.00,Accesorios,Este
+02/21/2023,"Bufanda (Única, Roja, Gucci)",8,150,$150.00,Accesorios,Sur
+12/18/2021,"Botas (43, Marrón, Dr. Martens)",9,120,$360.00,Calzado,Norte
+11/06/2006,"Traje (M, Azul, Armani)",10,300,$300.00,Ropa,Este
+12/17/2022,"Vestido (L, Verde, Zara)",3,45,$90.00,Ropa,Sur
+01/01/2017,"Sandalias (38, Negro, Birkenstock)",10,35,$210.00,Calzado,Norte
+12/29/2020,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+10/29/2022,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+09/14/2001,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+12/12/2018,"Falda (S, Negra, H&M)",4,35,$140.00,Ropa,Este
+06/10/2019,"Chaqueta (L, Verde, Patagonia)",3,150,$300.00,Ropa,Norte
+10/02/2007,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+06/14/2021,"Zapatos de Deporte (40, Blanco, New Balance)",1,70,$350.00,Calzado,Este
+09/06/2009,"Paraguas (Único, Negro, Totes)",4,25,$150.00,Accesorios,Norte
+03/13/2021,"Zapatos (41, Negro, Nike)",4,50,$50.00,Calzado,Norte
+12/12/2014,"Camiseta (S, Negra, Adidas)",9,15,$15.00,Ropa,Este
+03/21/2024,"Camiseta (M, Azul, Nike)",2,15,$60.00,Ropa,Norte
+09/29/2012,"Pantalón (L, Gris, Levi's)",1,25,$150.00,Ropa,Este
+07/29/2019,"Zapatos (42, Negro, Nike)",6,50,$450.00,Calzado,Norte
+08/24/2009,"Gorro (M, Gris, Patagonia)",7,20,$100.00,Accesorios,Norte
+10/11/2022,"Sudadera (L, Roja, Under Armour)",9,40,$120.00,Ropa,Sur
+12/24/2005,"Reloj (Único, Plata, Casio)",7,60,$120.00,Accesorios,Este
+11/01/2012,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+07/02/2024,"Gorra (Único, Azul, Nike)",2,15,$105.00,Accesorios,Sur
+08/21/2008,"Chaqueta (M, Negra, Columbia)",8,100,$200.00,Ropa,Norte
+02/07/2020,"Calcetines (L, Blanco, Puma)",5,5,$50.00,Accesorios,Este
+04/21/2014,"Bufanda (Única, Roja, Gucci)",6,150,$150.00,Accesorios,Sur
+05/05/2019,"Botas (43, Marrón, Dr. Martens)",6,120,$360.00,Calzado,Norte
+12/06/2002,"Traje (M, Azul, Armani)",4,300,$300.00,Ropa,Este
+06/01/2015,"Vestido (L, Verde, Zara)",7,45,$90.00,Ropa,Sur
+12/14/2015,"Sandalias (38, Negro, Birkenstock)",5,35,$210.00,Calzado,Norte
+10/02/2014,"Gafas de Sol (Único, Negro, Ray-Ban)",5,120,$360.00,Accesorios,Este
+07/25/2015,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+01/27/2013,"Corbata (Única, Roja, Hugo Boss)",4,30,$150.00,Accesorios,Norte
+05/11/2010,"Falda (S, Negra, H&M)",8,35,$140.00,Ropa,Este
+12/06/2020,"Chaqueta (L, Verde, Patagonia)",5,150,$300.00,Ropa,Norte
+12/17/2004,"Maleta (M, Azul, Samsonite)",7,100,$300.00,Accesorios,Sur
+08/06/2010,"Zapatos de Deporte (40, Blanco, New Balance)",5,70,$350.00,Calzado,Este
+10/20/2016,"Paraguas (Único, Negro, Totes)",3,25,$150.00,Accesorios,Norte
+04/28/2020,"Zapatos (41, Negro, Nike)",2,50,$50.00,Calzado,Norte
+10/30/2007,"Camiseta (S, Negra, Adidas)",9,15,$15.00,Ropa,Este
+07/09/2015,"Camiseta (M, Azul, Nike)",8,15,$60.00,Ropa,Norte
+11/08/2020,"Pantalón (L, Gris, Levi's)",4,25,$150.00,Ropa,Este
+02/27/2006,"Zapatos (42, Negro, Nike)",5,50,$450.00,Calzado,Norte
+07/13/2019,"Gorro (M, Gris, Patagonia)",1,20,$100.00,Accesorios,Norte
+03/06/2021,"Sudadera (L, Roja, Under Armour)",7,40,$120.00,Ropa,Sur
+12/07/2006,"Reloj (Único, Plata, Casio)",10,60,$120.00,Accesorios,Este
+05/20/2015,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+01/16/2012,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+05/06/2004,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+02/15/2006,"Calcetines (L, Blanco, Puma)",1,5,$50.00,Accesorios,Este
+01/08/2010,"Bufanda (Única, Roja, Gucci)",8,150,$150.00,Accesorios,Sur
+11/25/2016,"Botas (43, Marrón, Dr. Martens)",3,120,$360.00,Calzado,Norte
+01/10/2005,"Traje (M, Azul, Armani)",1,300,$300.00,Ropa,Este
+03/04/2024,"Vestido (L, Verde, Zara)",10,45,$90.00,Ropa,Sur
+05/29/2007,"Sandalias (38, Negro, Birkenstock)",10,35,$210.00,Calzado,Norte
+12/03/2002,"Gafas de Sol (Único, Negro, Ray-Ban)",1,120,$360.00,Accesorios,Este
+05/22/2017,"Guantes (M, Negro, Reebok)",6,25,$200.00,Accesorios,Sur
+04/13/2008,"Corbata (Única, Roja, Hugo Boss)",7,30,$150.00,Accesorios,Norte
+06/02/2017,"Falda (S, Negra, H&M)",9,35,$140.00,Ropa,Este
+08/16/2003,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+02/20/2009,"Maleta (M, Azul, Samsonite)",8,100,$300.00,Accesorios,Sur
+08/17/2002,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+04/20/2007,"Paraguas (Único, Negro, Totes)",8,25,$150.00,Accesorios,Norte
+05/20/2013,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+07/15/2013,"Camiseta (S, Negra, Adidas)",5,15,$15.00,Ropa,Este
+05/26/2016,"Camiseta (M, Azul, Nike)",8,15,$60.00,Ropa,Norte
+04/25/2020,"Pantalón (L, Gris, Levi's)",3,25,$150.00,Ropa,Este
+12/27/2016,"Zapatos (42, Negro, Nike)",2,50,$450.00,Calzado,Norte
+04/05/2024,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+07/02/2003,"Sudadera (L, Roja, Under Armour)",4,40,$120.00,Ropa,Sur
+11/13/2018,"Reloj (Único, Plata, Casio)",8,60,$120.00,Accesorios,Este
+02/02/2021,"Mochila (M, Negra, North Face)",10,80,$320.00,Accesorios,Norte
+09/14/2005,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+09/26/2020,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+04/20/2005,"Calcetines (L, Blanco, Puma)",3,5,$50.00,Accesorios,Este
+04/18/2010,"Bufanda (Única, Roja, Gucci)",1,150,$150.00,Accesorios,Sur
+09/10/2016,"Botas (43, Marrón, Dr. Martens)",5,120,$360.00,Calzado,Norte
+05/29/2008,"Traje (M, Azul, Armani)",8,300,$300.00,Ropa,Este
+08/14/2003,"Vestido (L, Verde, Zara)",4,45,$90.00,Ropa,Sur
+05/20/2019,"Sandalias (38, Negro, Birkenstock)",8,35,$210.00,Calzado,Norte
+08/30/2011,"Gafas de Sol (Único, Negro, Ray-Ban)",6,120,$360.00,Accesorios,Este
+02/08/2022,"Guantes (M, Negro, Reebok)",5,25,$200.00,Accesorios,Sur
+01/10/2018,"Corbata (Única, Roja, Hugo Boss)",1,30,$150.00,Accesorios,Norte
+11/02/2005,"Falda (S, Negra, H&M)",6,35,$140.00,Ropa,Este
+02/24/2014,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+11/26/2023,"Maleta (M, Azul, Samsonite)",6,100,$300.00,Accesorios,Sur
+09/10/2014,"Zapatos de Deporte (40, Blanco, New Balance)",3,70,$350.00,Calzado,Este
+05/02/2004,"Paraguas (Único, Negro, Totes)",9,25,$150.00,Accesorios,Norte
+11/22/2007,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+12/01/2014,"Camiseta (S, Negra, Adidas)",2,15,$15.00,Ropa,Este
+05/26/2018,"Camiseta (M, Azul, Nike)",9,15,$60.00,Ropa,Norte
+10/29/2014,"Pantalón (L, Gris, Levi's)",5,25,$150.00,Ropa,Este
+07/24/2003,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
+07/01/2024,"Gorro (M, Gris, Patagonia)",9,20,$100.00,Accesorios,Norte
+01/08/2013,"Sudadera (L, Roja, Under Armour)",9,40,$120.00,Ropa,Sur
+04/02/2001,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+06/05/2016,"Mochila (M, Negra, North Face)",1,80,$320.00,Accesorios,Norte
+04/28/2015,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+06/03/2004,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+07/14/2007,"Calcetines (L, Blanco, Puma)",8,5,$50.00,Accesorios,Este
+02/12/2001,"Bufanda (Única, Roja, Gucci)",4,150,$150.00,Accesorios,Sur
+08/27/2008,"Botas (43, Marrón, Dr. Martens)",2,120,$360.00,Calzado,Norte
+10/14/2008,"Traje (M, Azul, Armani)",8,300,$300.00,Ropa,Este
+12/04/2017,"Vestido (L, Verde, Zara)",10,45,$90.00,Ropa,Sur
+08/24/2018,"Sandalias (38, Negro, Birkenstock)",6,35,$210.00,Calzado,Norte
+09/11/2019,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+11/20/2021,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+04/17/2002,"Corbata (Única, Roja, Hugo Boss)",4,30,$150.00,Accesorios,Norte
+03/05/2017,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+03/12/2022,"Chaqueta (L, Verde, Patagonia)",5,150,$300.00,Ropa,Norte
+06/14/2005,"Maleta (M, Azul, Samsonite)",2,100,$300.00,Accesorios,Sur
+12/28/2018,"Zapatos de Deporte (40, Blanco, New Balance)",4,70,$350.00,Calzado,Este
+07/18/2015,"Paraguas (Único, Negro, Totes)",9,25,$150.00,Accesorios,Norte
+05/04/2012,"Zapatos (41, Negro, Nike)",6,50,$50.00,Calzado,Norte
+04/29/2006,"Camiseta (S, Negra, Adidas)",3,15,$15.00,Ropa,Este
+07/04/2018,"Camiseta (M, Azul, Nike)",6,15,$60.00,Ropa,Norte
+09/12/2005,"Pantalón (L, Gris, Levi's)",5,25,$150.00,Ropa,Este
+06/05/2005,"Zapatos (42, Negro, Nike)",9,50,$450.00,Calzado,Norte
+01/29/2004,"Gorro (M, Gris, Patagonia)",3,20,$100.00,Accesorios,Norte
+01/29/2007,"Sudadera (L, Roja, Under Armour)",7,40,$120.00,Ropa,Sur
+03/01/2023,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+09/07/2018,"Mochila (M, Negra, North Face)",9,80,$320.00,Accesorios,Norte
+01/14/2004,"Gorra (Único, Azul, Nike)",5,15,$105.00,Accesorios,Sur
+06/08/2024,"Chaqueta (M, Negra, Columbia)",3,100,$200.00,Ropa,Norte
+07/03/2016,"Calcetines (L, Blanco, Puma)",3,5,$50.00,Accesorios,Este
+09/01/2010,"Bufanda (Única, Roja, Gucci)",7,150,$150.00,Accesorios,Sur
+02/15/2005,"Botas (43, Marrón, Dr. Martens)",6,120,$360.00,Calzado,Norte
+12/17/2013,"Traje (M, Azul, Armani)",9,300,$300.00,Ropa,Este
+02/03/2011,"Vestido (L, Verde, Zara)",8,45,$90.00,Ropa,Sur
+08/16/2021,"Sandalias (38, Negro, Birkenstock)",6,35,$210.00,Calzado,Norte
+09/27/2014,"Gafas de Sol (Único, Negro, Ray-Ban)",8,120,$360.00,Accesorios,Este
+02/29/2008,"Guantes (M, Negro, Reebok)",8,25,$200.00,Accesorios,Sur
+06/21/2021,"Corbata (Única, Roja, Hugo Boss)",1,30,$150.00,Accesorios,Norte
+09/05/2019,"Falda (S, Negra, H&M)",8,35,$140.00,Ropa,Este
+12/11/2002,"Chaqueta (L, Verde, Patagonia)",5,150,$300.00,Ropa,Norte
+07/09/2005,"Maleta (M, Azul, Samsonite)",10,100,$300.00,Accesorios,Sur
+09/28/2007,"Zapatos de Deporte (40, Blanco, New Balance)",7,70,$350.00,Calzado,Este
+01/20/2013,"Paraguas (Único, Negro, Totes)",9,25,$150.00,Accesorios,Norte
+09/16/2011,"Zapatos (41, Negro, Nike)",9,50,$50.00,Calzado,Norte
+08/11/2018,"Camiseta (S, Negra, Adidas)",10,15,$15.00,Ropa,Este
+07/26/2019,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+03/30/2004,"Pantalón (L, Gris, Levi's)",9,25,$150.00,Ropa,Este
+12/25/2021,"Zapatos (42, Negro, Nike)",5,50,$450.00,Calzado,Norte
+01/16/2020,"Gorro (M, Gris, Patagonia)",7,20,$100.00,Accesorios,Norte
+02/06/2011,"Sudadera (L, Roja, Under Armour)",1,40,$120.00,Ropa,Sur
+08/06/2008,"Reloj (Único, Plata, Casio)",6,60,$120.00,Accesorios,Este
+05/10/2004,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+07/29/2011,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+08/06/2008,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+04/02/2008,"Calcetines (L, Blanco, Puma)",9,5,$50.00,Accesorios,Este
+02/13/2020,"Bufanda (Única, Roja, Gucci)",6,150,$150.00,Accesorios,Sur
+07/21/2003,"Botas (43, Marrón, Dr. Martens)",1,120,$360.00,Calzado,Norte
+04/29/2023,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+08/13/2023,"Vestido (L, Verde, Zara)",6,45,$90.00,Ropa,Sur
+09/05/2014,"Sandalias (38, Negro, Birkenstock)",2,35,$210.00,Calzado,Norte
+12/10/2021,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+05/26/2010,"Guantes (M, Negro, Reebok)",5,25,$200.00,Accesorios,Sur
+06/11/2002,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+02/03/2010,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+10/21/2022,"Chaqueta (L, Verde, Patagonia)",1,150,$300.00,Ropa,Norte
+10/05/2006,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+05/05/2024,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+01/14/2012,"Paraguas (Único, Negro, Totes)",6,25,$150.00,Accesorios,Norte
+07/24/2013,"Zapatos (41, Negro, Nike)",3,50,$50.00,Calzado,Norte
+06/25/2004,"Camiseta (S, Negra, Adidas)",4,15,$15.00,Ropa,Este
+12/18/2022,"Camiseta (M, Azul, Nike)",9,15,$60.00,Ropa,Norte
+06/17/2021,"Pantalón (L, Gris, Levi's)",10,25,$150.00,Ropa,Este
+07/14/2002,"Zapatos (42, Negro, Nike)",3,50,$450.00,Calzado,Norte
+02/20/2014,"Gorro (M, Gris, Patagonia)",5,20,$100.00,Accesorios,Norte
+05/21/2007,"Sudadera (L, Roja, Under Armour)",2,40,$120.00,Ropa,Sur
+03/03/2009,"Reloj (Único, Plata, Casio)",8,60,$120.00,Accesorios,Este
+03/24/2010,"Mochila (M, Negra, North Face)",3,80,$320.00,Accesorios,Norte
+02/06/2013,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+05/17/2010,"Chaqueta (M, Negra, Columbia)",8,100,$200.00,Ropa,Norte
+11/21/2016,"Calcetines (L, Blanco, Puma)",7,5,$50.00,Accesorios,Este
+10/22/2008,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+10/15/2022,"Botas (43, Marrón, Dr. Martens)",2,120,$360.00,Calzado,Norte
+06/23/2005,"Traje (M, Azul, Armani)",8,300,$300.00,Ropa,Este
+05/24/2023,"Vestido (L, Verde, Zara)",9,45,$90.00,Ropa,Sur
+06/28/2023,"Sandalias (38, Negro, Birkenstock)",10,35,$210.00,Calzado,Norte
+04/15/2024,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+07/25/2022,"Guantes (M, Negro, Reebok)",10,25,$200.00,Accesorios,Sur
+01/31/2016,"Corbata (Única, Roja, Hugo Boss)",4,30,$150.00,Accesorios,Norte
+12/20/2010,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+06/09/2020,"Chaqueta (L, Verde, Patagonia)",5,150,$300.00,Ropa,Norte
+05/17/2013,"Maleta (M, Azul, Samsonite)",4,100,$300.00,Accesorios,Sur
+08/11/2010,"Zapatos de Deporte (40, Blanco, New Balance)",1,70,$350.00,Calzado,Este
+09/04/2003,"Paraguas (Único, Negro, Totes)",8,25,$150.00,Accesorios,Norte
+02/18/2011,"Zapatos (41, Negro, Nike)",4,50,$50.00,Calzado,Norte
+05/24/2011,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+08/22/2016,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+09/06/2023,"Pantalón (L, Gris, Levi's)",2,25,$150.00,Ropa,Este
+08/26/2004,"Zapatos (42, Negro, Nike)",9,50,$450.00,Calzado,Norte
+02/22/2021,"Gorro (M, Gris, Patagonia)",1,20,$100.00,Accesorios,Norte
+10/12/2016,"Sudadera (L, Roja, Under Armour)",3,40,$120.00,Ropa,Sur
+10/14/2009,"Reloj (Único, Plata, Casio)",7,60,$120.00,Accesorios,Este
+03/03/2007,"Mochila (M, Negra, North Face)",10,80,$320.00,Accesorios,Norte
+11/02/2004,"Gorra (Único, Azul, Nike)",4,15,$105.00,Accesorios,Sur
+10/06/2006,"Chaqueta (M, Negra, Columbia)",9,100,$200.00,Ropa,Norte
+01/18/2008,"Calcetines (L, Blanco, Puma)",9,5,$50.00,Accesorios,Este
+07/15/2001,"Bufanda (Única, Roja, Gucci)",2,150,$150.00,Accesorios,Sur
+06/06/2012,"Botas (43, Marrón, Dr. Martens)",10,120,$360.00,Calzado,Norte
+04/07/2006,"Traje (M, Azul, Armani)",3,300,$300.00,Ropa,Este
+11/01/2009,"Vestido (L, Verde, Zara)",10,45,$90.00,Ropa,Sur
+07/15/2023,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+11/15/2013,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+07/23/2011,"Guantes (M, Negro, Reebok)",4,25,$200.00,Accesorios,Sur
+02/09/2010,"Corbata (Única, Roja, Hugo Boss)",9,30,$150.00,Accesorios,Norte
+11/14/2013,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+04/25/2024,"Chaqueta (L, Verde, Patagonia)",8,150,$300.00,Ropa,Norte
+05/26/2014,"Maleta (M, Azul, Samsonite)",10,100,$300.00,Accesorios,Sur
+01/10/2011,"Zapatos de Deporte (40, Blanco, New Balance)",6,70,$350.00,Calzado,Este
+03/26/2018,"Paraguas (Único, Negro, Totes)",9,25,$150.00,Accesorios,Norte
+01/21/2011,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+11/06/2022,"Camiseta (S, Negra, Adidas)",4,15,$15.00,Ropa,Este
+12/01/2004,"Camiseta (M, Azul, Nike)",3,15,$60.00,Ropa,Norte
+08/18/2006,"Pantalón (L, Gris, Levi's)",4,25,$150.00,Ropa,Este
+10/15/2010,"Zapatos (42, Negro, Nike)",6,50,$450.00,Calzado,Norte
+10/03/2020,"Gorro (M, Gris, Patagonia)",9,20,$100.00,Accesorios,Norte
+04/03/2002,"Sudadera (L, Roja, Under Armour)",8,40,$120.00,Ropa,Sur
+09/20/2014,"Reloj (Único, Plata, Casio)",3,60,$120.00,Accesorios,Este
+06/13/2006,"Mochila (M, Negra, North Face)",3,80,$320.00,Accesorios,Norte
+10/31/2006,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+01/22/2013,"Chaqueta (M, Negra, Columbia)",6,100,$200.00,Ropa,Norte
+06/28/2005,"Calcetines (L, Blanco, Puma)",2,5,$50.00,Accesorios,Este
+04/29/2019,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+04/13/2016,"Botas (43, Marrón, Dr. Martens)",2,120,$360.00,Calzado,Norte
+11/08/2002,"Traje (M, Azul, Armani)",9,300,$300.00,Ropa,Este
+02/25/2015,"Vestido (L, Verde, Zara)",2,45,$90.00,Ropa,Sur
+02/07/2012,"Sandalias (38, Negro, Birkenstock)",1,35,$210.00,Calzado,Norte
+02/12/2016,"Gafas de Sol (Único, Negro, Ray-Ban)",7,120,$360.00,Accesorios,Este
+04/02/2012,"Guantes (M, Negro, Reebok)",8,25,$200.00,Accesorios,Sur
+06/22/2018,"Corbata (Única, Roja, Hugo Boss)",9,30,$150.00,Accesorios,Norte
+01/11/2015,"Falda (S, Negra, H&M)",9,35,$140.00,Ropa,Este
+11/17/2008,"Chaqueta (L, Verde, Patagonia)",5,150,$300.00,Ropa,Norte
+11/27/2010,"Maleta (M, Azul, Samsonite)",2,100,$300.00,Accesorios,Sur
+06/18/2014,"Zapatos de Deporte (40, Blanco, New Balance)",2,70,$350.00,Calzado,Este
+01/07/2020,"Paraguas (Único, Negro, Totes)",7,25,$150.00,Accesorios,Norte
+07/19/2017,"Zapatos (41, Negro, Nike)",4,50,$50.00,Calzado,Norte
+06/15/2006,"Camiseta (S, Negra, Adidas)",2,15,$15.00,Ropa,Este
+02/01/2005,"Camiseta (M, Azul, Nike)",6,15,$60.00,Ropa,Norte
+12/15/2011,"Pantalón (L, Gris, Levi's)",7,25,$150.00,Ropa,Este
+04/07/2015,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
+03/11/2002,"Gorro (M, Gris, Patagonia)",4,20,$100.00,Accesorios,Norte
+10/02/2015,"Sudadera (L, Roja, Under Armour)",2,40,$120.00,Ropa,Sur
+08/29/2014,"Reloj (Único, Plata, Casio)",9,60,$120.00,Accesorios,Este
+05/10/2015,"Mochila (M, Negra, North Face)",10,80,$320.00,Accesorios,Norte
+03/04/2015,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+12/29/2016,"Chaqueta (M, Negra, Columbia)",9,100,$200.00,Ropa,Norte
+06/20/2015,"Calcetines (L, Blanco, Puma)",6,5,$50.00,Accesorios,Este
+11/08/2020,"Bufanda (Única, Roja, Gucci)",8,150,$150.00,Accesorios,Sur
+01/11/2008,"Botas (43, Marrón, Dr. Martens)",4,120,$360.00,Calzado,Norte
+12/06/2013,"Traje (M, Azul, Armani)",6,300,$300.00,Ropa,Este
+02/26/2006,"Vestido (L, Verde, Zara)",1,45,$90.00,Ropa,Sur
+10/22/2010,"Sandalias (38, Negro, Birkenstock)",10,35,$210.00,Calzado,Norte
+04/22/2020,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+05/01/2014,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+06/18/2014,"Corbata (Única, Roja, Hugo Boss)",1,30,$150.00,Accesorios,Norte
+12/26/2007,"Falda (S, Negra, H&M)",6,35,$140.00,Ropa,Este
+05/27/2017,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+12/03/2012,"Maleta (M, Azul, Samsonite)",3,100,$300.00,Accesorios,Sur
+04/30/2021,"Zapatos de Deporte (40, Blanco, New Balance)",9,70,$350.00,Calzado,Este
+10/08/2002,"Paraguas (Único, Negro, Totes)",5,25,$150.00,Accesorios,Norte
+03/05/2004,"Zapatos (41, Negro, Nike)",6,50,$50.00,Calzado,Norte
+08/02/2023,"Camiseta (S, Negra, Adidas)",4,15,$15.00,Ropa,Este
+10/30/2015,"Camiseta (M, Azul, Nike)",9,15,$60.00,Ropa,Norte
+05/24/2005,"Pantalón (L, Gris, Levi's)",3,25,$150.00,Ropa,Este
+10/26/2001,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
+08/19/2016,"Gorro (M, Gris, Patagonia)",2,20,$100.00,Accesorios,Norte
+03/16/2015,"Sudadera (L, Roja, Under Armour)",2,40,$120.00,Ropa,Sur
+04/15/2008,"Reloj (Único, Plata, Casio)",3,60,$120.00,Accesorios,Este
+01/28/2023,"Mochila (M, Negra, North Face)",10,80,$320.00,Accesorios,Norte
+03/21/2024,"Gorra (Único, Azul, Nike)",8,15,$105.00,Accesorios,Sur
+03/09/2005,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+07/09/2011,"Calcetines (L, Blanco, Puma)",7,5,$50.00,Accesorios,Este
+05/17/2005,"Bufanda (Única, Roja, Gucci)",7,150,$150.00,Accesorios,Sur
+10/13/2013,"Botas (43, Marrón, Dr. Martens)",4,120,$360.00,Calzado,Norte
+01/29/2002,"Traje (M, Azul, Armani)",3,300,$300.00,Ropa,Este
+01/24/2020,"Vestido (L, Verde, Zara)",6,45,$90.00,Ropa,Sur
+04/12/2006,"Sandalias (38, Negro, Birkenstock)",4,35,$210.00,Calzado,Norte
+10/18/2019,"Gafas de Sol (Único, Negro, Ray-Ban)",5,120,$360.00,Accesorios,Este
+04/25/2011,"Guantes (M, Negro, Reebok)",2,25,$200.00,Accesorios,Sur
+05/19/2016,"Corbata (Única, Roja, Hugo Boss)",7,30,$150.00,Accesorios,Norte
+07/14/2003,"Falda (S, Negra, H&M)",4,35,$140.00,Ropa,Este
+05/10/2009,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+10/13/2015,"Maleta (M, Azul, Samsonite)",5,100,$300.00,Accesorios,Sur
+09/06/2022,"Zapatos de Deporte (40, Blanco, New Balance)",2,70,$350.00,Calzado,Este
+03/01/2022,"Paraguas (Único, Negro, Totes)",10,25,$150.00,Accesorios,Norte
+07/13/2023,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+10/06/2009,"Camiseta (S, Negra, Adidas)",1,15,$15.00,Ropa,Este
+05/27/2016,"Camiseta (M, Azul, Nike)",2,15,$60.00,Ropa,Norte
+03/26/2023,"Pantalón (L, Gris, Levi's)",1,25,$150.00,Ropa,Este
+05/14/2005,"Zapatos (42, Negro, Nike)",5,50,$450.00,Calzado,Norte
+05/02/2023,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+05/11/2016,"Sudadera (L, Roja, Under Armour)",6,40,$120.00,Ropa,Sur
+05/09/2024,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+11/30/2010,"Mochila (M, Negra, North Face)",8,80,$320.00,Accesorios,Norte
+02/01/2018,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+05/15/2012,"Chaqueta (M, Negra, Columbia)",8,100,$200.00,Ropa,Norte
+05/15/2019,"Calcetines (L, Blanco, Puma)",2,5,$50.00,Accesorios,Este
+12/15/2006,"Bufanda (Única, Roja, Gucci)",10,150,$150.00,Accesorios,Sur
+04/16/2008,"Botas (43, Marrón, Dr. Martens)",9,120,$360.00,Calzado,Norte
+04/05/2016,"Traje (M, Azul, Armani)",10,300,$300.00,Ropa,Este
+11/05/2005,"Vestido (L, Verde, Zara)",3,45,$90.00,Ropa,Sur
+09/10/2022,"Sandalias (38, Negro, Birkenstock)",4,35,$210.00,Calzado,Norte
+01/02/2020,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+09/09/2014,"Guantes (M, Negro, Reebok)",5,25,$200.00,Accesorios,Sur
+07/04/2015,"Corbata (Única, Roja, Hugo Boss)",8,30,$150.00,Accesorios,Norte
+05/04/2020,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+07/06/2023,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+04/24/2007,"Maleta (M, Azul, Samsonite)",7,100,$300.00,Accesorios,Sur
+05/12/2013,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+02/02/2024,"Paraguas (Único, Negro, Totes)",6,25,$150.00,Accesorios,Norte
+01/29/2010,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+07/13/2002,"Camiseta (S, Negra, Adidas)",6,15,$15.00,Ropa,Este
+09/22/2005,"Camiseta (M, Azul, Nike)",3,15,$60.00,Ropa,Norte
+05/23/2019,"Pantalón (L, Gris, Levi's)",7,25,$150.00,Ropa,Este
+10/26/2007,"Zapatos (42, Negro, Nike)",9,50,$450.00,Calzado,Norte
+03/17/2006,"Gorro (M, Gris, Patagonia)",5,20,$100.00,Accesorios,Norte
+10/23/2014,"Sudadera (L, Roja, Under Armour)",5,40,$120.00,Ropa,Sur
+09/16/2008,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+02/27/2006,"Mochila (M, Negra, North Face)",5,80,$320.00,Accesorios,Norte
+08/14/2016,"Gorra (Único, Azul, Nike)",7,15,$105.00,Accesorios,Sur
+04/14/2011,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+11/12/2007,"Calcetines (L, Blanco, Puma)",5,5,$50.00,Accesorios,Este
+09/23/2012,"Bufanda (Única, Roja, Gucci)",4,150,$150.00,Accesorios,Sur
+10/23/2015,"Botas (43, Marrón, Dr. Martens)",5,120,$360.00,Calzado,Norte
+12/13/2008,"Traje (M, Azul, Armani)",8,300,$300.00,Ropa,Este
+05/02/2011,"Vestido (L, Verde, Zara)",3,45,$90.00,Ropa,Sur
+08/25/2011,"Sandalias (38, Negro, Birkenstock)",10,35,$210.00,Calzado,Norte
+03/11/2008,"Gafas de Sol (Único, Negro, Ray-Ban)",3,120,$360.00,Accesorios,Este
+09/22/2001,"Guantes (M, Negro, Reebok)",2,25,$200.00,Accesorios,Sur
+12/10/2006,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+02/12/2013,"Falda (S, Negra, H&M)",3,35,$140.00,Ropa,Este
+06/10/2002,"Chaqueta (L, Verde, Patagonia)",1,150,$300.00,Ropa,Norte
+10/30/2011,"Maleta (M, Azul, Samsonite)",10,100,$300.00,Accesorios,Sur
+06/23/2002,"Zapatos de Deporte (40, Blanco, New Balance)",10,70,$350.00,Calzado,Este
+11/08/2012,"Paraguas (Único, Negro, Totes)",8,25,$150.00,Accesorios,Norte
+08/30/2006,"Zapatos (41, Negro, Nike)",8,50,$50.00,Calzado,Norte
+12/15/2004,"Camiseta (S, Negra, Adidas)",1,15,$15.00,Ropa,Este
+03/19/2007,"Camiseta (M, Azul, Nike)",6,15,$60.00,Ropa,Norte
+12/22/2007,"Pantalón (L, Gris, Levi's)",10,25,$150.00,Ropa,Este
+05/19/2020,"Zapatos (42, Negro, Nike)",5,50,$450.00,Calzado,Norte
+06/23/2016,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+06/24/2012,"Sudadera (L, Roja, Under Armour)",7,40,$120.00,Ropa,Sur
+02/04/2020,"Reloj (Único, Plata, Casio)",10,60,$120.00,Accesorios,Este
+04/19/2004,"Mochila (M, Negra, North Face)",6,80,$320.00,Accesorios,Norte
+07/27/2016,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+12/09/2015,"Chaqueta (M, Negra, Columbia)",9,100,$200.00,Ropa,Norte
+03/11/2011,"Calcetines (L, Blanco, Puma)",8,5,$50.00,Accesorios,Este
+08/01/2006,"Bufanda (Única, Roja, Gucci)",6,150,$150.00,Accesorios,Sur
+08/25/2018,"Botas (43, Marrón, Dr. Martens)",4,120,$360.00,Calzado,Norte
+01/08/2020,"Traje (M, Azul, Armani)",2,300,$300.00,Ropa,Este
+11/22/2021,"Vestido (L, Verde, Zara)",9,45,$90.00,Ropa,Sur
+10/30/2007,"Sandalias (38, Negro, Birkenstock)",1,35,$210.00,Calzado,Norte
+04/21/2008,"Gafas de Sol (Único, Negro, Ray-Ban)",10,120,$360.00,Accesorios,Este
+09/22/2009,"Guantes (M, Negro, Reebok)",10,25,$200.00,Accesorios,Sur
+09/13/2022,"Corbata (Única, Roja, Hugo Boss)",2,30,$150.00,Accesorios,Norte
+01/25/2023,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+07/09/2021,"Chaqueta (L, Verde, Patagonia)",10,150,$300.00,Ropa,Norte
+08/06/2018,"Maleta (M, Azul, Samsonite)",2,100,$300.00,Accesorios,Sur
+08/28/2002,"Zapatos de Deporte (40, Blanco, New Balance)",2,70,$350.00,Calzado,Este
+12/01/2011,"Paraguas (Único, Negro, Totes)",1,25,$150.00,Accesorios,Norte
+04/05/2015,"Zapatos (41, Negro, Nike)",4,50,$50.00,Calzado,Norte
+07/23/2013,"Camiseta (S, Negra, Adidas)",6,15,$15.00,Ropa,Este
+05/08/2002,"Camiseta (M, Azul, Nike)",4,15,$60.00,Ropa,Norte
+08/05/2001,"Pantalón (L, Gris, Levi's)",6,25,$150.00,Ropa,Este
+07/15/2004,"Zapatos (42, Negro, Nike)",6,50,$450.00,Calzado,Norte
+02/22/2004,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+07/05/2006,"Sudadera (L, Roja, Under Armour)",8,40,$120.00,Ropa,Sur
+10/09/2022,"Reloj (Único, Plata, Casio)",7,60,$120.00,Accesorios,Este
+04/05/2017,"Mochila (M, Negra, North Face)",2,80,$320.00,Accesorios,Norte
+11/08/2008,"Gorra (Único, Azul, Nike)",9,15,$105.00,Accesorios,Sur
+10/14/2009,"Chaqueta (M, Negra, Columbia)",3,100,$200.00,Ropa,Norte
+04/17/2020,"Calcetines (L, Blanco, Puma)",3,5,$50.00,Accesorios,Este
+08/04/2015,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+05/13/2024,"Botas (43, Marrón, Dr. Martens)",9,120,$360.00,Calzado,Norte
+11/28/2010,"Traje (M, Azul, Armani)",9,300,$300.00,Ropa,Este
+01/18/2018,"Vestido (L, Verde, Zara)",5,45,$90.00,Ropa,Sur
+12/11/2005,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+03/21/2022,"Gafas de Sol (Único, Negro, Ray-Ban)",3,120,$360.00,Accesorios,Este
+11/25/2012,"Guantes (M, Negro, Reebok)",9,25,$200.00,Accesorios,Sur
+05/04/2004,"Corbata (Única, Roja, Hugo Boss)",6,30,$150.00,Accesorios,Norte
+12/09/2013,"Falda (S, Negra, H&M)",4,35,$140.00,Ropa,Este
+01/29/2020,"Chaqueta (L, Verde, Patagonia)",1,150,$300.00,Ropa,Norte
+01/27/2006,"Maleta (M, Azul, Samsonite)",8,100,$300.00,Accesorios,Sur
+07/15/2017,"Zapatos de Deporte (40, Blanco, New Balance)",2,70,$350.00,Calzado,Este
+12/18/2014,"Paraguas (Único, Negro, Totes)",9,25,$150.00,Accesorios,Norte
+11/15/2022,"Zapatos (41, Negro, Nike)",9,50,$50.00,Calzado,Norte
+03/04/2022,"Camiseta (S, Negra, Adidas)",1,15,$15.00,Ropa,Este
+07/09/2009,"Camiseta (M, Azul, Nike)",6,15,$60.00,Ropa,Norte
+11/09/2011,"Pantalón (L, Gris, Levi's)",9,25,$150.00,Ropa,Este
+12/10/2008,"Zapatos (42, Negro, Nike)",4,50,$450.00,Calzado,Norte
+07/18/2017,"Gorro (M, Gris, Patagonia)",2,20,$100.00,Accesorios,Norte
+02/02/2016,"Sudadera (L, Roja, Under Armour)",5,40,$120.00,Ropa,Sur
+07/22/2006,"Reloj (Único, Plata, Casio)",8,60,$120.00,Accesorios,Este
+09/09/2021,"Mochila (M, Negra, North Face)",9,80,$320.00,Accesorios,Norte
+10/15/2006,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+09/14/2001,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+03/04/2007,"Calcetines (L, Blanco, Puma)",6,5,$50.00,Accesorios,Este
+09/05/2016,"Bufanda (Única, Roja, Gucci)",8,150,$150.00,Accesorios,Sur
+12/23/2015,"Botas (43, Marrón, Dr. Martens)",6,120,$360.00,Calzado,Norte
+03/14/2018,"Traje (M, Azul, Armani)",4,300,$300.00,Ropa,Este
+01/02/2004,"Vestido (L, Verde, Zara)",8,45,$90.00,Ropa,Sur
+10/03/2007,"Sandalias (38, Negro, Birkenstock)",2,35,$210.00,Calzado,Norte
+11/07/2011,"Gafas de Sol (Único, Negro, Ray-Ban)",7,120,$360.00,Accesorios,Este
+08/12/2007,"Guantes (M, Negro, Reebok)",6,25,$200.00,Accesorios,Sur
+03/30/2022,"Corbata (Única, Roja, Hugo Boss)",7,30,$150.00,Accesorios,Norte
+12/11/2014,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+07/16/2008,"Chaqueta (L, Verde, Patagonia)",10,150,$300.00,Ropa,Norte
+06/22/2011,"Maleta (M, Azul, Samsonite)",3,100,$300.00,Accesorios,Sur
+02/05/2006,"Zapatos de Deporte (40, Blanco, New Balance)",7,70,$350.00,Calzado,Este
+08/22/2023,"Paraguas (Único, Negro, Totes)",7,25,$150.00,Accesorios,Norte
+05/25/2002,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+09/22/2008,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+03/20/2021,"Camiseta (M, Azul, Nike)",3,15,$60.00,Ropa,Norte
+01/31/2011,"Pantalón (L, Gris, Levi's)",2,25,$150.00,Ropa,Este
+08/04/2010,"Zapatos (42, Negro, Nike)",3,50,$450.00,Calzado,Norte
+05/23/2022,"Gorro (M, Gris, Patagonia)",10,20,$100.00,Accesorios,Norte
+03/01/2020,"Sudadera (L, Roja, Under Armour)",1,40,$120.00,Ropa,Sur
+05/09/2014,"Reloj (Único, Plata, Casio)",9,60,$120.00,Accesorios,Este
+03/26/2014,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+04/03/2018,"Gorra (Único, Azul, Nike)",10,15,$105.00,Accesorios,Sur
+01/21/2020,"Chaqueta (M, Negra, Columbia)",2,100,$200.00,Ropa,Norte
+03/15/2016,"Calcetines (L, Blanco, Puma)",8,5,$50.00,Accesorios,Este
+10/29/2015,"Bufanda (Única, Roja, Gucci)",10,150,$150.00,Accesorios,Sur
+12/23/2018,"Botas (43, Marrón, Dr. Martens)",2,120,$360.00,Calzado,Norte
+05/28/2014,"Traje (M, Azul, Armani)",1,300,$300.00,Ropa,Este
+11/11/2009,"Vestido (L, Verde, Zara)",9,45,$90.00,Ropa,Sur
+02/22/2019,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+08/28/2012,"Gafas de Sol (Único, Negro, Ray-Ban)",2,120,$360.00,Accesorios,Este
+06/18/2007,"Guantes (M, Negro, Reebok)",6,25,$200.00,Accesorios,Sur
+05/18/2022,"Corbata (Única, Roja, Hugo Boss)",5,30,$150.00,Accesorios,Norte
+08/19/2008,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+12/31/2003,"Chaqueta (L, Verde, Patagonia)",8,150,$300.00,Ropa,Norte
+07/23/2017,"Maleta (M, Azul, Samsonite)",6,100,$300.00,Accesorios,Sur
+07/07/2009,"Zapatos de Deporte (40, Blanco, New Balance)",8,70,$350.00,Calzado,Este
+10/03/2003,"Paraguas (Único, Negro, Totes)",7,25,$150.00,Accesorios,Norte
+04/16/2019,"Zapatos (41, Negro, Nike)",5,50,$50.00,Calzado,Norte
+10/30/2023,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+02/03/2014,"Camiseta (M, Azul, Nike)",10,15,$60.00,Ropa,Norte
+01/04/2014,"Pantalón (L, Gris, Levi's)",1,25,$150.00,Ropa,Este
+12/26/2019,"Zapatos (42, Negro, Nike)",2,50,$450.00,Calzado,Norte
+10/06/2009,"Gorro (M, Gris, Patagonia)",8,20,$100.00,Accesorios,Norte
+12/25/2020,"Sudadera (L, Roja, Under Armour)",9,40,$120.00,Ropa,Sur
+08/07/2015,"Reloj (Único, Plata, Casio)",9,60,$120.00,Accesorios,Este
+11/03/2007,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+11/26/2014,"Gorra (Único, Azul, Nike)",6,15,$105.00,Accesorios,Sur
+11/08/2004,"Chaqueta (M, Negra, Columbia)",4,100,$200.00,Ropa,Norte
+05/17/2013,"Calcetines (L, Blanco, Puma)",5,5,$50.00,Accesorios,Este
+05/15/2017,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+12/22/2013,"Botas (43, Marrón, Dr. Martens)",9,120,$360.00,Calzado,Norte
+11/07/2003,"Traje (M, Azul, Armani)",4,300,$300.00,Ropa,Este
+09/04/2010,"Vestido (L, Verde, Zara)",4,45,$90.00,Ropa,Sur
+05/05/2004,"Sandalias (38, Negro, Birkenstock)",3,35,$210.00,Calzado,Norte
+12/24/2009,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+05/28/2010,"Guantes (M, Negro, Reebok)",6,25,$200.00,Accesorios,Sur
+08/28/2018,"Corbata (Única, Roja, Hugo Boss)",5,30,$150.00,Accesorios,Norte
+01/26/2024,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+04/10/2020,"Chaqueta (L, Verde, Patagonia)",3,150,$300.00,Ropa,Norte
+01/21/2021,"Maleta (M, Azul, Samsonite)",7,100,$300.00,Accesorios,Sur
+01/04/2002,"Zapatos de Deporte (40, Blanco, New Balance)",6,70,$350.00,Calzado,Este
+05/19/2010,"Paraguas (Único, Negro, Totes)",10,25,$150.00,Accesorios,Norte
+08/01/2022,"Zapatos (41, Negro, Nike)",9,50,$50.00,Calzado,Norte
+08/26/2007,"Camiseta (S, Negra, Adidas)",7,15,$15.00,Ropa,Este
+08/01/2023,"Camiseta (M, Azul, Nike)",8,15,$60.00,Ropa,Norte
+04/25/2008,"Pantalón (L, Gris, Levi's)",10,25,$150.00,Ropa,Este
+04/20/2011,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
+10/28/2014,"Gorro (M, Gris, Patagonia)",3,20,$100.00,Accesorios,Norte
+10/24/2015,"Sudadera (L, Roja, Under Armour)",5,40,$120.00,Ropa,Sur
+08/26/2022,"Reloj (Único, Plata, Casio)",9,60,$120.00,Accesorios,Este
+11/02/2020,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+07/01/2011,"Gorra (Único, Azul, Nike)",7,15,$105.00,Accesorios,Sur
+04/13/2015,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+10/26/2016,"Calcetines (L, Blanco, Puma)",10,5,$50.00,Accesorios,Este
+06/22/2006,"Bufanda (Única, Roja, Gucci)",9,150,$150.00,Accesorios,Sur
+12/05/2002,"Botas (43, Marrón, Dr. Martens)",10,120,$360.00,Calzado,Norte
+11/12/2023,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+08/06/2021,"Vestido (L, Verde, Zara)",3,45,$90.00,Ropa,Sur
+10/04/2017,"Sandalias (38, Negro, Birkenstock)",2,35,$210.00,Calzado,Norte
+12/25/2015,"Gafas de Sol (Único, Negro, Ray-Ban)",7,120,$360.00,Accesorios,Este
+06/12/2018,"Guantes (M, Negro, Reebok)",4,25,$200.00,Accesorios,Sur
+04/11/2018,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+07/23/2021,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+12/04/2008,"Chaqueta (L, Verde, Patagonia)",6,150,$300.00,Ropa,Norte
+05/29/2008,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+05/14/2021,"Zapatos de Deporte (40, Blanco, New Balance)",9,70,$350.00,Calzado,Este
+06/03/2006,"Paraguas (Único, Negro, Totes)",8,25,$150.00,Accesorios,Norte
+09/23/2021,"Zapatos (41, Negro, Nike)",10,50,$50.00,Calzado,Norte
+04/04/2023,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+09/30/2016,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+05/29/2014,"Pantalón (L, Gris, Levi's)",9,25,$150.00,Ropa,Este
+06/09/2001,"Zapatos (42, Negro, Nike)",8,50,$450.00,Calzado,Norte
+03/26/2017,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+02/07/2013,"Sudadera (L, Roja, Under Armour)",9,40,$120.00,Ropa,Sur
+09/12/2017,"Reloj (Único, Plata, Casio)",8,60,$120.00,Accesorios,Este
+09/15/2013,"Mochila (M, Negra, North Face)",3,80,$320.00,Accesorios,Norte
+07/26/2009,"Gorra (Único, Azul, Nike)",6,15,$105.00,Accesorios,Sur
+12/01/2009,"Chaqueta (M, Negra, Columbia)",7,100,$200.00,Ropa,Norte
+11/02/2023,"Calcetines (L, Blanco, Puma)",10,5,$50.00,Accesorios,Este
+02/15/2023,"Bufanda (Única, Roja, Gucci)",5,150,$150.00,Accesorios,Sur
+07/08/2003,"Botas (43, Marrón, Dr. Martens)",4,120,$360.00,Calzado,Norte
+10/20/2017,"Traje (M, Azul, Armani)",5,300,$300.00,Ropa,Este
+03/19/2021,"Vestido (L, Verde, Zara)",2,45,$90.00,Ropa,Sur
+11/17/2021,"Sandalias (38, Negro, Birkenstock)",4,35,$210.00,Calzado,Norte
+06/26/2012,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+12/20/2014,"Guantes (M, Negro, Reebok)",7,25,$200.00,Accesorios,Sur
+01/05/2021,"Corbata (Única, Roja, Hugo Boss)",5,30,$150.00,Accesorios,Norte
+05/04/2017,"Falda (S, Negra, H&M)",3,35,$140.00,Ropa,Este
+03/03/2007,"Chaqueta (L, Verde, Patagonia)",2,150,$300.00,Ropa,Norte
+07/08/2019,"Maleta (M, Azul, Samsonite)",5,100,$300.00,Accesorios,Sur
+05/18/2009,"Zapatos de Deporte (40, Blanco, New Balance)",9,70,$350.00,Calzado,Este
+04/24/2022,"Paraguas (Único, Negro, Totes)",3,25,$150.00,Accesorios,Norte
+06/16/2016,"Zapatos (41, Negro, Nike)",9,50,$50.00,Calzado,Norte
+11/04/2016,"Camiseta (S, Negra, Adidas)",8,15,$15.00,Ropa,Este
+05/14/2011,"Camiseta (M, Azul, Nike)",7,15,$60.00,Ropa,Norte
+12/12/2006,"Pantalón (L, Gris, Levi's)",9,25,$150.00,Ropa,Este
+06/15/2009,"Zapatos (42, Negro, Nike)",1,50,$450.00,Calzado,Norte
+02/04/2008,"Gorro (M, Gris, Patagonia)",6,20,$100.00,Accesorios,Norte
+06/03/2012,"Sudadera (L, Roja, Under Armour)",10,40,$120.00,Ropa,Sur
+03/23/2012,"Reloj (Único, Plata, Casio)",3,60,$120.00,Accesorios,Este
+03/14/2019,"Mochila (M, Negra, North Face)",3,80,$320.00,Accesorios,Norte
+08/23/2006,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+12/21/2016,"Chaqueta (M, Negra, Columbia)",3,100,$200.00,Ropa,Norte
+02/14/2023,"Calcetines (L, Blanco, Puma)",9,5,$50.00,Accesorios,Este
+08/20/2005,"Bufanda (Única, Roja, Gucci)",10,150,$150.00,Accesorios,Sur
+07/13/2004,"Botas (43, Marrón, Dr. Martens)",6,120,$360.00,Calzado,Norte
+12/16/2023,"Traje (M, Azul, Armani)",3,300,$300.00,Ropa,Este
+08/03/2017,"Vestido (L, Verde, Zara)",5,45,$90.00,Ropa,Sur
+01/02/2022,"Sandalias (38, Negro, Birkenstock)",5,35,$210.00,Calzado,Norte
+08/29/2023,"Gafas de Sol (Único, Negro, Ray-Ban)",3,120,$360.00,Accesorios,Este
+01/19/2003,"Guantes (M, Negro, Reebok)",2,25,$200.00,Accesorios,Sur
+10/01/2010,"Corbata (Única, Roja, Hugo Boss)",9,30,$150.00,Accesorios,Norte
+03/07/2016,"Falda (S, Negra, H&M)",3,35,$140.00,Ropa,Este
+02/09/2001,"Chaqueta (L, Verde, Patagonia)",4,150,$300.00,Ropa,Norte
+03/22/2008,"Maleta (M, Azul, Samsonite)",5,100,$300.00,Accesorios,Sur
+08/23/2021,"Zapatos de Deporte (40, Blanco, New Balance)",9,70,$350.00,Calzado,Este
+07/29/2014,"Paraguas (Único, Negro, Totes)",8,25,$150.00,Accesorios,Norte
+03/16/2004,"Zapatos (41, Negro, Nike)",9,50,$50.00,Calzado,Norte
+06/24/2007,"Camiseta (S, Negra, Adidas)",6,15,$15.00,Ropa,Este
+03/21/2023,"Camiseta (M, Azul, Nike)",9,15,$60.00,Ropa,Norte
+06/07/2019,"Pantalón (L, Gris, Levi's)",4,25,$150.00,Ropa,Este
+11/16/2014,"Zapatos (42, Negro, Nike)",2,50,$450.00,Calzado,Norte
+02/08/2002,"Gorro (M, Gris, Patagonia)",10,20,$100.00,Accesorios,Norte
+03/02/2010,"Sudadera (L, Roja, Under Armour)",3,40,$120.00,Ropa,Sur
+09/18/2020,"Reloj (Único, Plata, Casio)",10,60,$120.00,Accesorios,Este
+06/03/2007,"Mochila (M, Negra, North Face)",5,80,$320.00,Accesorios,Norte
+02/01/2009,"Gorra (Único, Azul, Nike)",3,15,$105.00,Accesorios,Sur
+09/27/2009,"Chaqueta (M, Negra, Columbia)",1,100,$200.00,Ropa,Norte
+03/31/2004,"Calcetines (L, Blanco, Puma)",2,5,$50.00,Accesorios,Este
+10/14/2009,"Bufanda (Única, Roja, Gucci)",3,150,$150.00,Accesorios,Sur
+02/07/2019,"Botas (43, Marrón, Dr. Martens)",4,120,$360.00,Calzado,Norte
+04/11/2015,"Traje (M, Azul, Armani)",6,300,$300.00,Ropa,Este
+04/26/2024,"Vestido (L, Verde, Zara)",7,45,$90.00,Ropa,Sur
+11/10/2005,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+09/30/2015,"Gafas de Sol (Único, Negro, Ray-Ban)",1,120,$360.00,Accesorios,Este
+05/16/2008,"Guantes (M, Negro, Reebok)",1,25,$200.00,Accesorios,Sur
+12/01/2017,"Corbata (Única, Roja, Hugo Boss)",6,30,$150.00,Accesorios,Norte
+08/31/2021,"Falda (S, Negra, H&M)",7,35,$140.00,Ropa,Este
+06/06/2016,"Chaqueta (L, Verde, Patagonia)",7,150,$300.00,Ropa,Norte
+12/21/2009,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+12/11/2001,"Zapatos de Deporte (40, Blanco, New Balance)",7,70,$350.00,Calzado,Este
+01/22/2023,"Paraguas (Único, Negro, Totes)",1,25,$150.00,Accesorios,Norte
+08/12/2012,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+01/15/2018,"Camiseta (S, Negra, Adidas)",4,15,$15.00,Ropa,Este
+04/05/2009,"Camiseta (M, Azul, Nike)",4,15,$60.00,Ropa,Norte
+11/03/2020,"Pantalón (L, Gris, Levi's)",2,25,$150.00,Ropa,Este
+05/08/2006,"Zapatos (42, Negro, Nike)",9,50,$450.00,Calzado,Norte
