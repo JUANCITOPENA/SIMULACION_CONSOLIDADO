@@ -1,0 +1,76 @@
+Fecha,Nombre del Producto,Cantidad Vendida,Precio Unitario,Total de Venta,Categoría,Región
+09/16/2021,"Gorro (M, Gris, Patagonia)",8,20,$100.00,Accesorios,Norte
+12/06/2020,"Sudadera (L, Roja, Under Armour)",2,40,$120.00,Ropa,Sur
+04/23/2020,"Reloj (Único, Plata, Casio)",6,60,$120.00,Accesorios,Este
+12/26/2022,"Mochila (M, Negra, North Face)",4,80,$320.00,Accesorios,Norte
+06/21/2024,"Gorra (Único, Azul, Nike)",9,15,$105.00,Accesorios,Sur
+11/06/2022,"Chaqueta (M, Negra, Columbia)",9,100,$200.00,Ropa,Norte
+08/06/2023,"Calcetines (L, Blanco, Puma)",10,5,$50.00,Accesorios,Este
+12/30/2022,"Bufanda (Única, Roja, Gucci)",7,150,$150.00,Accesorios,Sur
+07/09/2021,"Botas (43, Marrón, Dr. Martens)",2,120,$360.00,Calzado,Norte
+03/02/2023,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+04/28/2022,"Vestido (L, Verde, Zara)",7,45,$90.00,Ropa,Sur
+06/18/2024,"Sandalias (38, Negro, Birkenstock)",1,35,$210.00,Calzado,Norte
+12/02/2020,"Gafas de Sol (Único, Negro, Ray-Ban)",4,120,$360.00,Accesorios,Este
+04/28/2024,"Guantes (M, Negro, Reebok)",1,25,$200.00,Accesorios,Sur
+10/17/2023,"Corbata (Única, Roja, Hugo Boss)",9,30,$150.00,Accesorios,Norte
+02/18/2023,"Falda (S, Negra, H&M)",2,35,$140.00,Ropa,Este
+03/22/2024,"Chaqueta (L, Verde, Patagonia)",10,150,$300.00,Ropa,Norte
+12/26/2022,"Maleta (M, Azul, Samsonite)",2,100,$300.00,Accesorios,Sur
+04/23/2024,"Zapatos de Deporte (40, Blanco, New Balance)",3,70,$350.00,Calzado,Este
+07/21/2023,"Paraguas (Único, Negro, Totes)",3,25,$150.00,Accesorios,Norte
+11/17/2022,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+03/18/2020,"Camiseta (S, Negra, Adidas)",3,15,$15.00,Ropa,Este
+06/19/2024,"Camiseta (M, Azul, Nike)",2,15,$60.00,Ropa,Norte
+03/21/2021,"Pantalón (L, Gris, Levi's)",6,25,$150.00,Ropa,Este
+05/28/2021,"Zapatos (42, Negro, Nike)",6,50,$450.00,Calzado,Norte
+09/21/2021,"Gorro (M, Gris, Patagonia)",5,20,$100.00,Accesorios,Norte
+01/14/2023,"Sudadera (L, Roja, Under Armour)",1,40,$120.00,Ropa,Sur
+03/10/2021,"Reloj (Único, Plata, Casio)",5,60,$120.00,Accesorios,Este
+02/19/2021,"Mochila (M, Negra, North Face)",7,80,$320.00,Accesorios,Norte
+09/06/2020,"Gorra (Único, Azul, Nike)",2,15,$105.00,Accesorios,Sur
+07/23/2023,"Chaqueta (M, Negra, Columbia)",3,100,$200.00,Ropa,Norte
+07/19/2020,"Calcetines (L, Blanco, Puma)",1,5,$50.00,Accesorios,Este
+05/03/2023,"Bufanda (Única, Roja, Gucci)",7,150,$150.00,Accesorios,Sur
+08/08/2020,"Botas (43, Marrón, Dr. Martens)",5,120,$360.00,Calzado,Norte
+11/02/2021,"Traje (M, Azul, Armani)",7,300,$300.00,Ropa,Este
+04/07/2023,"Vestido (L, Verde, Zara)",9,45,$90.00,Ropa,Sur
+02/09/2020,"Sandalias (38, Negro, Birkenstock)",7,35,$210.00,Calzado,Norte
+12/03/2021,"Gafas de Sol (Único, Negro, Ray-Ban)",9,120,$360.00,Accesorios,Este
+04/16/2021,"Guantes (M, Negro, Reebok)",5,25,$200.00,Accesorios,Sur
+12/15/2022,"Corbata (Única, Roja, Hugo Boss)",1,30,$150.00,Accesorios,Norte
+06/20/2024,"Falda (S, Negra, H&M)",5,35,$140.00,Ropa,Este
+11/13/2022,"Chaqueta (L, Verde, Patagonia)",9,150,$300.00,Ropa,Norte
+01/25/2020,"Maleta (M, Azul, Samsonite)",4,100,$300.00,Accesorios,Sur
+12/20/2021,"Zapatos de Deporte (40, Blanco, New Balance)",2,70,$350.00,Calzado,Este
+10/29/2023,"Paraguas (Único, Negro, Totes)",6,25,$150.00,Accesorios,Norte
+03/05/2024,"Zapatos (41, Negro, Nike)",5,50,$50.00,Calzado,Norte
+01/23/2022,"Camiseta (S, Negra, Adidas)",6,15,$15.00,Ropa,Este
+04/24/2024,"Camiseta (M, Azul, Nike)",6,15,$60.00,Ropa,Norte
+04/12/2023,"Pantalón (L, Gris, Levi's)",8,25,$150.00,Ropa,Este
+05/05/2021,"Zapatos (42, Negro, Nike)",8,50,$450.00,Calzado,Norte
+01/19/2021,"Gorro (M, Gris, Patagonia)",5,20,$100.00,Accesorios,Norte
+09/12/2021,"Sudadera (L, Roja, Under Armour)",7,40,$120.00,Ropa,Sur
+11/05/2021,"Reloj (Único, Plata, Casio)",2,60,$120.00,Accesorios,Este
+02/19/2020,"Mochila (M, Negra, North Face)",1,80,$320.00,Accesorios,Norte
+03/15/2022,"Gorra (Único, Azul, Nike)",6,15,$105.00,Accesorios,Sur
+07/02/2024,"Chaqueta (M, Negra, Columbia)",5,100,$200.00,Ropa,Norte
+06/05/2020,"Calcetines (L, Blanco, Puma)",10,5,$50.00,Accesorios,Este
+05/05/2022,"Bufanda (Única, Roja, Gucci)",2,150,$150.00,Accesorios,Sur
+04/21/2022,"Botas (43, Marrón, Dr. Martens)",10,120,$360.00,Calzado,Norte
+06/28/2024,"Traje (M, Azul, Armani)",6,300,$300.00,Ropa,Este
+11/02/2020,"Vestido (L, Verde, Zara)",9,45,$90.00,Ropa,Sur
+09/13/2020,"Sandalias (38, Negro, Birkenstock)",9,35,$210.00,Calzado,Norte
+01/09/2024,"Gafas de Sol (Único, Negro, Ray-Ban)",7,120,$360.00,Accesorios,Este
+07/29/2023,"Guantes (M, Negro, Reebok)",10,25,$200.00,Accesorios,Sur
+12/20/2023,"Corbata (Única, Roja, Hugo Boss)",10,30,$150.00,Accesorios,Norte
+01/01/2024,"Falda (S, Negra, H&M)",8,35,$140.00,Ropa,Este
+08/16/2020,"Chaqueta (L, Verde, Patagonia)",8,150,$300.00,Ropa,Norte
+04/22/2020,"Maleta (M, Azul, Samsonite)",9,100,$300.00,Accesorios,Sur
+02/27/2020,"Zapatos de Deporte (40, Blanco, New Balance)",7,70,$350.00,Calzado,Este
+09/23/2020,"Paraguas (Único, Negro, Totes)",1,25,$150.00,Accesorios,Norte
+02/24/2022,"Zapatos (41, Negro, Nike)",1,50,$50.00,Calzado,Norte
+03/16/2024,"Camiseta (S, Negra, Adidas)",7,15,$15.00,Ropa,Este
+07/15/2021,"Camiseta (M, Azul, Nike)",3,15,$60.00,Ropa,Norte
+07/08/2020,"Pantalón (L, Gris, Levi's)",6,25,$150.00,Ropa,Este
+10/01/2021,"Zapatos (42, Negro, Nike)",7,50,$450.00,Calzado,Norte
